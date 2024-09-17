@@ -89,7 +89,7 @@ import os
 
 
 # Replace with your email account information
-EMAIL = "vaishalisharmay93@gmail.com"
+EMAIL = "Enter your mail ID"
 PASSWORD = getpass.getpass("Enter your Email Password : ")
 
 # Connect to the IMAP server
